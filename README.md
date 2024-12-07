@@ -28,7 +28,7 @@ To launch the client, move to the `client` directory and use the following comma
 npm run dev
 ```
 
-The client will then be accessible at [http://localhost:3000/](http://localhost:3000/).
+The client will then be accessible at [http://localhost:3002/](http://localhost:3002/).
 
 ## Starting the Server
 
