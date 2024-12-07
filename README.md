@@ -42,4 +42,6 @@ npm start
 
 The front-end of the application is built using React, while the back-end is constructed with Node.js and Express.
 
-[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
+
+
+![acsacascas](https://github.com/user-attachments/assets/b0f7d391-93b9-421b-b684-86ef41bdebc0)
